@@ -1,0 +1,32 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    background-color: #edf3ec;
+    padding: 0;
+    border-style: outset;
+}
+
+.logo {
+    width: 170px;
+    mix-blend-mode: multiply;
+}
+
+.nav-items{
+    padding: 0px 20px 0px 10px;
+
+}
+
+.nav-items > ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: baseline;
+}
+
+.nav-items > ul > li{
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 24px;
+    
+}

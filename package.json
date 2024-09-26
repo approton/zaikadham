@@ -1,0 +1,29 @@
+{
+  "name": "swiggy_app",
+  "version": "1.0.0",
+  "description": "Food Delivery App",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/approton/zaikadham.git"
+  },
+  "keywords": [],
+  "author": "Ram Niwash Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/approton/zaikadham/issues"
+  },
+  "homepage": "https://github.com/approton/zaikadham#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
